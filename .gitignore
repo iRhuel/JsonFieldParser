@@ -19,7 +19,6 @@
 *.rar
 
 # Custom Filters
-lib/
 out/
 *.iml
 .idea/
